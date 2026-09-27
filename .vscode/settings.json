@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "/Users/samuasplund/Documents/Projektit/ohjelmistorobo/."
+    ],
+    "python.terminal.activateEnvironment": false
+}
